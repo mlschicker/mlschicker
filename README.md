@@ -23,8 +23,8 @@ Berlin, Germany &nbsp;|&nbsp; [ml.schicker@outlook.com](mailto:ml.schicker@outlo
 
 | Degree | Institution | Period |
 |--------|-------------|--------|
-| **M.Sc. Mathematics** — Algorithms & Discrete Mathematics | TU Berlin | Sep 2023 – present |
-| **B.Sc. Mathematics** — Algorithms & Discrete Mathematics | TU Berlin | 2020 – 2023 |
+| **M.Sc. Mathematics** | TU Berlin | Sep 2023 – present |
+| **B.Sc. Mathematics** | TU Berlin | 2020 – 2023 |
 
 > Bachelor Thesis: *"Competitive Algorithms for Non-Clairvoyant Scheduling with Lossy Preemption"* — Grade **1.0** (highest), supervised by Prof. Dr. Max Klimm
 
