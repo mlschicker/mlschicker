@@ -6,12 +6,14 @@ Berlin, Germany &nbsp;|&nbsp; [ml.schicker@outlook.com](mailto:ml.schicker@outlo
 
 ## What I'm Working On
 
-- **Student Research Assistant** at [Zuse Institute Berlin](https://www.zib.de/) *(Mar 2024 – present)*
+- **Research Scientist Intern** at [IBM Research Zürich](https://research.ibm.com/labs/zurich) *(June 2026 - present)*
+
+- **Student Research Assistant** at [Zuse Institute Berlin](https://www.zib.de/) *(March 2024 – present)*
   - Key contributor to the [*Quantum Optimization Benchmarking Library – The Intractable Decathlon*](https://arxiv.org/abs/2504.03832) project
   - Implementing and analyzing classical baselines for optimization algorithm benchmarking
   - Collaborating with IBM and international research partners
 
-- **CEO** at [Alster Systems UG](https://alster-systems.de/) *(Jul 2020 – present)*
+- **CEO** at [Alster Systems UG](https://alster-systems.de/) *(July 2020 – present)*
   - Front-end development of digital class register software for schools
   - Managing customer relations, accounting, and school integrations
 
@@ -19,8 +21,8 @@ Berlin, Germany &nbsp;|&nbsp; [ml.schicker@outlook.com](mailto:ml.schicker@outlo
 
 | Degree | Institution | Period |
 |--------|-------------|--------|
-| **M.Sc. Mathematics** | TU Berlin | Sep 2023 – present |
-| **B.Sc. Mathematics** | TU Berlin | 2020 – 2023 |
+| **M.Sc. Mathematics** | TU Berlin | September 2023 – May 2026 |
+| **B.Sc. Mathematics** | TU Berlin | October 2020 – September 2023 |
 
 > Bachelor Thesis: *"Competitive Algorithms for Non-Clairvoyant Scheduling with Lossy Preemption"* — Grade **1.0** (highest), supervised by Prof. Dr. Max Klimm
 
