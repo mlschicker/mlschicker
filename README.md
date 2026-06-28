@@ -1,6 +1,6 @@
 # Hi, I'm Max
 
-I'm a **mathematics graduate student** at [Technische Universität Berlin](https://www.tu.berlin/), specializing in **algorithms, discrete mathematics, and optimization**. My research sits at the intersection of theoretical mathematics and practical applications — from quantum optimization benchmarking to scheduling algorithms and combinatorial problems.
+I did my Bachelor and **Master of Science in Mathematics** at [Technische Universität Berlin](https://www.tu.berlin/), specializing in **algorithms, discrete mathematics, and optimization**. My research sits at the intersection of theoretical mathematics and practical applications — from quantum optimization benchmarking to scheduling algorithms and combinatorial problems.
 
 Berlin, Germany &nbsp;|&nbsp; [ml.schicker@outlook.com](mailto:ml.schicker@outlook.com) &nbsp;|&nbsp; [schicker.org](https://schicker.org)
 
